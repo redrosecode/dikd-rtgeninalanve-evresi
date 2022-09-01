@@ -1,2 +1,2 @@
-# dikd-rtgeninalanve-evresi
+# dikdörtgeninalanveçevresi
 alanveçevre
