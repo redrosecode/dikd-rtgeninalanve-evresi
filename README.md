@@ -1,0 +1,2 @@
+# dikd-rtgeninalanve-evresi
+alanveçevre
